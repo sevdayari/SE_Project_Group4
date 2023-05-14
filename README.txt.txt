@@ -1,0 +1,1 @@
+Use a different server with up-to-date apache to avoid the following error
